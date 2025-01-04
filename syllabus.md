@@ -230,7 +230,7 @@ To submit a lab, follow the instructions in the assignment to upload your
 notebook to Gradescope, which will run automated tests and assign your score.
 You should verify that all of your test cases pass on Gradescope **before the
 deadline**. Lab assignments will usually be due on **Saturdays at 11:59PM**, 
-though you should refer to the homepage of this website for the most up-to-date schedule. We will
+though you should refer to the [homepage of this website](..) for the most up-to-date schedule. We will
 release lab assignments roughly a week before they're due. **Your lowest lab score
 is dropped from your grade calculation at the end of the quarter.**
 
@@ -265,7 +265,7 @@ hidden correctness tests that determine your score.
 
 To submit a homework, follow the instructions in the assignment to upload your
 notebook to Gradescope. Homeworks will usually be due on **Tuesdays at
-11:59PM**, though you should refer to the homepage of this website for the most up-to-date schedule. 
+11:59PM**, though you should refer to the [homepage of this website](..) for the most up-to-date schedule. 
 We will release homework assignments roughly a week before they're
 due. **Your lowest homework score
 is dropped from your grade calculation at the end of the quarter.**
@@ -368,10 +368,8 @@ When submitting your work, there are two common errors to watch out for:
    work for that assignment. To avoid this error, make sure to stick around on 
    Gradescope after submission until you see that all tests have passed.
 
-To prevent these issues, it is important that you (1) double-check that you are
-submitting the right notebook in the right format to Gradescope, and (2) let
-the autograder run on Gradescope until it shows you under “Public Tests” that
-all public test cases passed.
+{: .warning }
+To prevent these issues, it is important that you let the autograder run on Gradescope until it shows you under “Public Tests” that all public test cases passed. Do not navigate away from Gradescope until you see this confirmation that your submission was able to be successfully graded!
 
 If you happen to make one of the above mistakes and you notice it yourself 
 within 48 hours of the deadline, please resubmit your assignment. If it is more than 48 hours since the deadline,
@@ -422,7 +420,7 @@ You must attend **your assigned quiz session**; see the [Quiz Sessions](#quiz-se
 ## 📆 Weekly Schedule
 
 To summarize all of the events and deadlines, refer to this general weekly
-schedule. Please refer to the homepage of this website for the most up-to-date schedule of deadlines.
+schedule. Please refer to the [homepage of this website](..) for the most up-to-date schedule of deadlines.
 
 | **Sunday** | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** |
 | | Lecture and Discussion | | Lecture and Discussion or Quiz | | Lecture | |
