@@ -2,11 +2,11 @@
 name: Bill Wang
 role: Tutor
 pronouns: he/him
-email:
-photo: assets/staff-images/sp24/wang-bill.jpeg
+email: 
+photo: assets/staff-images/wi25/wang-bill.jpg
 description: 3rd year, Data Science, Seventh
 hometown: Los Gatos, CA
 askabout: Piano
-foodemoji: 🌶
-food: Spicy City, Taco Stand
+foodemoji: 🌶 
+food: Spicy City, Shawarma Guys
 ---

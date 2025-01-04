@@ -3,10 +3,10 @@ name: Michelle Hong
 role: Tutor
 pronouns: she/her
 email: 
-photo: assets/staff-images/sp24/hong-michelle.jpg
+photo: assets/staff-images/wi25/hong-michelle.jpg
 description: 2nd year, Data Science, Seventh
 hometown: Dublin, CA
-askabout: Bananagrams, thrifting, concerts
+askabout: Bananagrams, thrifting, bass guitar
 foodemoji: 🐠 
-food: Hawaiian Fresh Seafood, Tacos El Gordo
+food: Hawaiian Fresh Seafood, Pelicana
 ---
