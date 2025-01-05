@@ -2,13 +2,26 @@
 title: Week 9 – Prediction
 weekNumber: 9
 days:
-    - date: 2024-11-25
+    - date: 2025-3-3
       events: 
-        - name: LEC 24
+        - name: LEC 22
+          type: lecture
+          title: Permutation Testing
+          url:
+          html:
+          podcast:
+          readings:          keywords: smoking/babies, np.random.permutation, shuffling, Deflategate
+        - name: DISC 10
+          type: disc
+          title: Practice Problems
+          url:
+    - date: 2025-3-5
+      events: 
+        - name: LEC 23
           type: lecture
           title: Correlation
-          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-fa&subPath=lectures/lec24/lec24.ipynb
-          html: resources/lectures/lec24/lec24.html
+          url:
+          html:
           podcast:
           readings:
             - name: CIT 15.0-15.2
@@ -16,30 +29,23 @@ days:
           keywords: association, correlation coefficient (r), predicting heights, regression line (su)
         - name: QUIZ 4
           type: quiz
-          title: Quiz 4 covers Lectures 19-23
-    - date: 2024-11-26
-      events:
-        - name: HW 6
-          type: hw
-          title: Hypothesis Testing and Permutation Testing
-          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-fa&subPath=homeworks/hw06/hw06.ipynb
-    - date: 2024-11-27
+          title: Quiz 4 covers Lectures 18-21
+    - date: 2025-3-7
       events: 
-        - name: LEC 25
+        - name: LEC 24
           type: lecture
           title: Regression and Least Squares
-          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-fa&subPath=lectures/lec25/lec25.ipynb
-          html: resources/lectures/lec25/lec25.html
+          url:
+          html:
           podcast:
           readings:
             - name: CIT 15.2-15.4
               url: https://inferentialthinking.com/chapters/15/2/Regression_Line.html
           keywords: regression line in original units, outliers, errors, RMSE, best fit, least squares
-        - name: DISC 8
-          type: disc
+    - date: 2025-3-8
+      events:
+        - name: HW 6
+          type: hw
           title: Hypothesis Testing and Permutation Testing
-          url: https://practice.dsc10.com/disc08/index.html
-    - date: 2024-11-29
-      events: 
-        - markdown_content: <b>No Lecture (Thanksgiving 🦃)</b>
+          url:
 ---

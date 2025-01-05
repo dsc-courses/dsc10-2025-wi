@@ -1,44 +1,58 @@
 ---
-title: Week 5 – Midterm Exam
+title: Week 5 – Simulations and Sampling
 weekNumber: 5
 days:
-    - date: 2024-10-28
+    - date: 2025-2-3
+      events: 
+        - name: LEC 12
+          type: lecture
+          title: Simulation
+          url:
+          html:
+          podcast:
+          readings:
+            - name: CIT 9.3-9.4
+              url: https://inferentialthinking.com/chapters/09/3/Simulation.html
+          keywords: np.random.choice, replacement, np.count_nonzero, coin flipping, Monty Hall
+        - name: DISC 6
+          type: disc
+          title: Practice Problems
+          url:
+    - date: 2025-2-4
+      events:
+        - name: HW 3
+          type: hw
+          title: DataFrames, Control Flow, and Probability
+          url: 
+        - name: SUR
+          type: survey
+          title: Mid-Quarter Survey
+          url:
+    - date: 2025-2-5
+      events: 
+        - name: LEC 13
+          type: lecture
+          title: Distributions and Sampling
+          url:
+          html:
+          podcast:
+          readings:
+            - name: CIT 10.0-10.4
+              url: https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html
+          keywords: probability vs. empirical distribution, SRS, .sample, parameter, statistic
+        - name: QUIZ 2
+          type: quiz
+          title: Quiz 2 covers Lectures 7-11
+    - date: 2025-2-7
       events: 
         - name: LEC 14
           type: lecture
-          title: Midterm Review
-          url:
-          html: resources/lectures/lec14/lec14.pdf
-          9am: resources/lectures/lec14/lec14_9am.pdf
-          10am: resources/lectures/lec14/lec14_10am.pdf
-          1pm: resources/lectures/lec14/lec14_1pm.pdf
-          podcast:
-          readings:
-        - name: DISC 5
-          type: disc
-          title: Probability and Simulation
-          url: https://practice.dsc10.com/disc05/index.html
-    - date: 2024-10-30
-      events: 
-        - name: EXAM
-          type: exam
-          title: <b>Midterm Exam covers Lectures 1-12</b>
-    - date: 2024-11-1
-      events: 
-        - name: LEC 15
-          type: lecture
           title: Bootstrapping and Confidence Intervals
-          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-fa&subPath=lectures/lec15/lec15.ipynb
-          html: resources/lectures/lec15/lec15.html
+          url:
+          html:
           podcast:
           readings:
             - name: CIT 13.0-13.2
               url: https://inferentialthinking.com/chapters/13/Estimation.html
           keywords: inference, bootstrapping, resample, np.percentile, confidence interval
-    - date: 2024-11-3
-      events:
-        - name: PROJ
-          type: proj
-          title: Midterm Project
-          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-fa&subPath=projects/midterm_project/midterm_project.ipynb
 ---
