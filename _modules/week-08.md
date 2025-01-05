@@ -10,7 +10,10 @@ days:
           url:
           html:
           podcast:
-          readings:          keywords: null and alternative hypotheses, test statistic, fair or unfair coin
+          readings:
+            - name: CIT 11.3
+              url: https://inferentialthinking.com/chapters/11/3/Decisions_and_Uncertainty.html
+          keywords: null and alternative hypotheses, test statistic, fair or unfair coin
         - name: DISC 9
           type: disc
           title: Practice Problems
@@ -30,8 +33,10 @@ days:
           html:
           podcast:
           readings:
-            - name: CIT 11.3
-              url: https://inferentialthinking.com/chapters/11/3/Decisions_and_Uncertainty.html
+            - name: CIT 11.2
+              url: https://inferentialthinking.com/chapters/11/2/Multiple_Categories.html
+            - name: 11.4
+              url: https://inferentialthinking.com/chapters/11/4/Error_Probabilities.html
           keywords: fair or unfair coin, p-value, midterm exam scores, Alameda County jury, TVD
         - name: QUIZ 2
           type: quiz

@@ -10,7 +10,10 @@ days:
           url:
           html:
           podcast:
-          readings:          keywords: smoking/babies, np.random.permutation, shuffling, Deflategate
+          readings:
+            - name: CIT 12.3
+              url: https://inferentialthinking.com/chapters/12/3/Deflategate.html
+          keywords: smoking/babies, np.random.permutation, shuffling, Deflategate
         - name: DISC 10
           type: disc
           title: Practice Problems

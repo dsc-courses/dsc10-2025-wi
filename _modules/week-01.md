@@ -11,13 +11,11 @@ days:
           html:
           podcast:
           readings:
-            - name: CIT 1.0-1.3
+            - name: CIT 1.0
               url: https://inferentialthinking.com/chapters/01/what-is-data-science.html
+            - name: BPD 1-3
+              url: https://notes.dsc10.com/01-getting_started/tools.html
           keywords: course logistics, syllabus, Little Women demo, Jupyter notebooks, expressions
-        - name: SUR
-          type: survey
-          title: Welcome Survey
-          url: https://forms.gle/nxkC7tC7ezKW5svs6
     - date: 2025-1-8
       events: 
         - name: LEC 2
@@ -27,13 +25,17 @@ days:
           html:
           podcast:
           readings:
-            - name: BPD 1-6
-              url: https://notes.dsc10.com/01-getting_started/tools.html
+            - name: BPD 3-5
+              url: https://notes.dsc10.com/01-getting_started/expressions.html
           keywords: variables, assignment, functions, import, methods, int, float, string
         - name: DISC 1
           type: disc
           title: Getting Started with Jupyter Notebooks
-          url:
+          url: 
+        - name: SUR
+          type: survey
+          title: Welcome Survey
+          url: https://forms.gle/nxkC7tC7ezKW5svs6
     - date: 2025-1-10
       events: 
         - name: LEC 3

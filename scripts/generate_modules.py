@@ -9,7 +9,7 @@ import sys
 import numpy as np
 
 # Edit these variables before running script
-CSV_PATH = "/Users/avimehta/dsc10-2025-wi/scripts/Lecture Schedule – DSC 10, Winter 2025 - wi25.csv"  #CHANGE CSV PATH for your computer
+CSV_PATH = "/Users/avimehta/dsc10-2025-wi/scripts/Lecture Schedule – DSC 10, Winter 2025 - wi25-5.csv"  #CHANGE CSV PATH for your computer
 DATE_FORMAT = "DATE MONTH/DAY"
 YEAR = 2025
 START_FROM_WEEK = 1 #only future weeks!
