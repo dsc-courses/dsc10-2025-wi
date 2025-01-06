@@ -7,8 +7,8 @@ days:
         - name: LEC 1
           type: lecture
           title: Introduction
-          url:
-          html:
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-wi&subPath=lectures/lec01/lec01.ipynb
+          html: resources/lectures/lec01/lec01.html
           podcast:
           readings:
             - name: CIT 1.0
@@ -21,8 +21,8 @@ days:
         - name: LEC 2
           type: lecture
           title: Expressions and Data Types
-          url:
-          html:
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-wi&subPath=lectures/lec02/lec02.ipynb
+          html: resources/lectures/lec02/lec02.html
           podcast:
           readings:
             - name: BPD 3-5
@@ -49,8 +49,8 @@ days:
         - name: LEC 3
           type: lecture
           title: Lists and Arrays
-          url:
-          html:
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-wi&subPath=lectures/lec03/lec03.ipynb
+          html: resources/lectures/lec03/lec03.html
           podcast:
           readings:
             - name: BPD 7-8
