@@ -51,5 +51,5 @@ days:
         - name: LAB 1
           type: lab
           title: Arrays and DataFrames
-          url:
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-wi&subPath=labs/lab01/lab01.ipynb
 ---
