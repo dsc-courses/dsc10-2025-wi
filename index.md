@@ -17,7 +17,7 @@ nav_order: 1
 >Because of holidays, the schedule of important dates is a bit different in the last few weeks! Next week, we have Quiz 4 on Monday, Homework 6 due on Tuesday, and Discussion 8 on Wednesday. -->
 
 {: .success }
->Welcome to DSC 10! Make sure to read this website thoroughly and complete the items in the [Getting Started](https://dsc10.com/syllabus/#-getting-started) checklist. These are due **Wednesday, January 8th at 11:59PM**.
+>Welcome to DSC 10! Make sure to read this website thoroughly and complete the items in the [Getting Started](https://dsc10.com/syllabus/#-getting-started) checklist. 
 
 
 <!--{: .warning }
