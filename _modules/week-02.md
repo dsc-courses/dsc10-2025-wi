@@ -7,8 +7,8 @@ days:
         - name: LEC 4
           type: lecture
           title: DataFrames
-          url:
-          html:
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-wi&subPath=lectures/lec04/lec04.ipynb
+          html: resources/lectures/lec04/lec04.html
           podcast:
           readings:
             - name: BPD 9
@@ -23,8 +23,8 @@ days:
         - name: LEC 5
           type: lecture
           title: Querying and Grouping
-          url:
-          html:
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-wi&subPath=lectures/lec05/lec05.ipynb
+          html: resources/lectures/lec05/lec05.html
           podcast:
           readings:
             - name: BPD 10-11
@@ -39,8 +39,8 @@ days:
         - name: LEC 6
           type: lecture
           title: Data Visualization
-          url:
-          html:
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-wi&subPath=lectures/lec06/lec06.ipynb
+          html: resources/lectures/lec06/lec06.html
           podcast:
           readings:
             - name: CIT 7.0-7.1
