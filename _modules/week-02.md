@@ -16,8 +16,8 @@ days:
           keywords: read_csv, .get, .assign, .sort_values, .iloc, .loc, .set_index, US states
         - name: DISC 2
           type: disc
-          title: Practice Problems
-          url:
+          title: Basic Python and Arrays
+          url: https://practice.dsc10.com/disc02/index.html
     - date: 2025-1-15
       events: 
         - name: LEC 5
