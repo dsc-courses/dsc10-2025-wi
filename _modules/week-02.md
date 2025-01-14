@@ -32,8 +32,8 @@ days:
           keywords: Booleans, querying, .shape, &, |, .take, .groupby, aggregation, .drop
         - name: DISC 3
           type: disc
-          title: Practice Problems
-          url:
+          title: DataFrames, Querying, and Grouping
+          url: https://practice.dsc10.com/disc03/index.html
     - date: 2025-1-17
       events: 
         - name: LEC 6
