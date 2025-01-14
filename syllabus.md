@@ -451,7 +451,7 @@ how grades will be computed:
 | Participation | 3% | |
 | Lab Assignments | 10% | drop lowest score |
 | Homework Assignments | 25% | drop lowest score |
-| Quizzes | 12% | drop lowest score |
+| Quizzes | 12% | drop two lowest scores |
 | Midterm Project | 10% | |
 | Midterm Exam | 10% | |
 | Final Project | 10% | |
