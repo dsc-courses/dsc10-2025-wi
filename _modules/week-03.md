@@ -16,8 +16,8 @@ days:
         - name: LEC 7
           type: lecture
           title: Distributions and Histograms
-          url:
-          html:
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-wi&subPath=lectures/lec07/lec07.ipynb
+          html: resources/lectures/lec07/lec07.html
           podcast:
           readings:
             - name: CIT 7.2-7.3
@@ -31,8 +31,8 @@ days:
         - name: LEC 8
           type: lecture
           title: Functions and Applying
-          url:
-          html:
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-wi&subPath=lectures/lec08/lec08.ipynb
+          html: resources/lectures/lec08/lec08.html
           podcast:
           readings:
             - name: BPD 6
