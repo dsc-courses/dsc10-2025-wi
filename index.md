@@ -37,7 +37,7 @@ This site is **under construction**. Anything you read here is not finalized. Th
 
 
 
-[Jump to the current week](/#week-3-histograms-and-functions){: .btn }
+[Jump to the current week](/#week-4-dataframes-control-flow-and-probability){: .btn }
 
 
 {% for module in site.modules %}

@@ -18,8 +18,8 @@ days:
           keywords: .groupby([col_1, col_2, …]), subgroups, MultiIndex, .merge, number of rows
         - name: DISC 4
           type: disc
-          title: Practice Problems
-          url:
+          title: Histograms and Functions
+          url: https://practice.dsc10.com/disc04/index.html
     - date: 2025-1-28
       events:
         - name: HW 2
