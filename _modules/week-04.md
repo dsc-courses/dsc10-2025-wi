@@ -7,8 +7,8 @@ days:
         - name: LEC 9
           type: lecture
           title: Grouping on Multiple Columns, Merging
-          url:
-          html:
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-wi&subPath=lectures/lec09/lec09.ipynb
+          html: resources/lectures/lec09/lec09.html
           podcast:
           readings:
             - name: BPD 11
@@ -31,8 +31,8 @@ days:
         - name: LEC 10
           type: lecture
           title: Conditional Statements and Iteration
-          url:
-          html:
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-wi&subPath=lectures/lec10/lec10.ipynb
+          html: resources/lectures/lec10/lec10.html
           podcast:
           readings:
             - name: CIT 9.0-9.2
@@ -47,8 +47,8 @@ days:
         - name: LEC 11
           type: lecture
           title: Probability
-          url:
-          html:
+          url: 
+          html: resources/lectures/lec11/lec11.pdf
           podcast:
           readings:
             - name: CIT 9.5
