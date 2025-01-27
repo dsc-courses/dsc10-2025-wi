@@ -12,7 +12,7 @@ days:
         - name: PROJ
           type: proj
           title: Midterm Project
-          url:
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-wi&subPath=projects/midterm_project/midterm_project.ipynb
     - date: 2025-2-12
       events: 
         - name: LEC 15
