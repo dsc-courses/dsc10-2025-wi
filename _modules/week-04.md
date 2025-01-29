@@ -40,8 +40,8 @@ days:
           keywords: in, not, and, or, if, else, elif, for-loops, np.append, accumulator pattern
         - name: DISC 5
           type: disc
-          title: Practice Problems
-          url:
+          title: Functions, Merging, and Control Flow
+          url: https://practice.dsc10.com/disc05/index.html
     - date: 2025-1-31
       events: 
         - name: LEC 11
