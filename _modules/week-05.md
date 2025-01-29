@@ -27,7 +27,7 @@ days:
         - name: SUR
           type: survey
           title: Mid-Quarter Survey
-          url:
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-wi&subPath=homeworks/hw03/hw03.ipynb
     - date: 2025-2-5
       events: 
         - name: LEC 13
