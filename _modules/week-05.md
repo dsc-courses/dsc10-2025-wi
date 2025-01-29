@@ -23,11 +23,11 @@ days:
         - name: HW 3
           type: hw
           title: DataFrames, Control Flow, and Probability
-          url: 
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-wi&subPath=homeworks/hw03/hw03.ipynb
         - name: SUR
           type: survey
           title: Mid-Quarter Survey
-          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-wi&subPath=homeworks/hw03/hw03.ipynb
+          url: 
     - date: 2025-2-5
       events: 
         - name: LEC 13
