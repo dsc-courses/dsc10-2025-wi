@@ -50,7 +50,7 @@ days:
           url: 
           html: resources/lectures/lec11/lec11.pdf
           10am: resources/lectures/lec11/lec11_10am.pdf
-          11am:  resources/lectures/lec11/lec11_11am.pdf
+          11am: resources/lectures/lec11/lec11_11am.pdf
           podcast:
           readings:
             - name: CIT 9.5
