@@ -16,8 +16,8 @@ days:
           keywords: np.random.choice, replacement, np.count_nonzero, coin flipping, Monty Hall
         - name: DISC 6
           type: disc
-          title: Practice Problems
-          url:
+          title: Probability and Simulation
+          url: https://practice.dsc10.com/disc06/index.html
     - date: 2025-2-4
       events:
         - name: HW 3
