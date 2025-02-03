@@ -7,8 +7,8 @@ days:
         - name: LEC 12
           type: lecture
           title: Simulation
-          url:
-          html:
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-wi&subPath=lectures/lec12/lec12.ipynb
+          html: resources/lectures/lec12/lec12.html
           podcast:
           readings:
             - name: CIT 9.3-9.4
@@ -33,8 +33,8 @@ days:
         - name: LEC 13
           type: lecture
           title: Distributions and Sampling
-          url:
-          html:
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-wi&subPath=lectures/lec13/lec13.ipynb
+          html: resources/lectures/lec13/lec13.html
           podcast:
           readings:
             - name: CIT 10.0-10.4
@@ -48,8 +48,8 @@ days:
         - name: LEC 14
           type: lecture
           title: Bootstrapping and Confidence Intervals
-          url:
-          html:
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-wi&subPath=lectures/lec14/lec14.ipynb
+          html: resources/lectures/lec14/lec14.html
           podcast:
           readings:
             - name: CIT 13.0-13.2
