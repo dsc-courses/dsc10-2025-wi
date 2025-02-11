@@ -21,8 +21,8 @@ days:
           keywords: interpreting CIs, robust vs. sensitive, center, standard deviation
         - name: DISC 7
           type: disc
-          title: Practice Problems
-          url:
+          title: Sampling, Bootstrapping, and Confidence Intervals
+          url: https://practice.dsc10.com/disc07/index.html
     - date: 2025-2-13
       events:
         - name: PROJ

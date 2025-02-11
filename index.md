@@ -42,7 +42,7 @@ This site is **under construction**. Anything you read here is not finalized. Th
 
 
 
-[Jump to the current week](/#week-5-simulations-and-sampling){: .btn }
+[Jump to the current week](/#week-6-confidence-intervals-and-the-normal-distribution){: .btn }
 
 
 {% for module in site.modules %}
