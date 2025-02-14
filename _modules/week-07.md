@@ -5,12 +5,6 @@ days:
     - date: 2025-2-17
       events: 
         - markdown_content: <b>No Lecture (Presidents Day)</b>
-    - date: 2025-2-18
-      events:
-        - name: HW 4
-          type: hw
-          title: Simulation, Sampling, & Bootstrapping
-          url:
     - date: 2025-2-19
       events: 
         - name: LEC 17
@@ -27,6 +21,12 @@ days:
           type: disc
           title: Practice Problems
           url:
+    - date: 2025-2-20
+      events:
+        - name: HW 4
+          type: hw
+          title: Simulation, Sampling, & Bootstrapping
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-wi&subPath=homeworks/hw04/hw04.ipynb
     - date: 2025-2-21
       events: 
         - name: LEC 18
