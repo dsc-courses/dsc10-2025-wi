@@ -1,0 +1,496 @@
+Episode,Season,Deal,Category,Asked For,Valuation
+1,1,False,Novelties,1000000,6666667
+1,1,True,Specialty Food,460000,4600000
+1,1,True,Baby and Child Care,50000,333333
+1,1,False,Consumer Services,250000,1000000
+1,1,False,Consumer Services,1200000,12000000
+2,1,True,Specialty Food,500000,3333333
+2,1,False,Men and Women's Apparel,200000,1000000
+2,1,False,Productivity Tools,100000,500000
+2,1,False,Automotive,500000,5000000
+2,1,True,Education,250000,2500000
+3,1,True,Kitchen Tools,35000,100000
+3,1,False,Kitchen Tools,100000,1000000
+3,1,True,Baby and Child Care,250000,1250000
+3,1,False,Music,500000,10000000
+3,1,False,Education,155000,1550000
+4,1,False,Professional Services,350000,2333333
+4,1,True,Baby and Child Care,350000,2333333
+4,1,False,Novelties,300000,750000
+4,1,True,Online Services,150000,500000
+4,1,False,Women's Accessories,150000,600000
+5,1,True,Online Services,80000,400000
+5,1,False,Specialty Food,175000,700000
+5,1,True,Fitness Equipment,180000,900000
+5,1,False,Consumer Services,50000,200000
+5,1,False,Novelties,50000,166667
+6,1,False,Undergarments and Basics,125000,625000
+6,1,True,Specialty Food,150000,1000000
+6,1,False,Non-Alcoholic Beverages,150000,600000
+6,1,True,Specialty Food,50000,500000
+6,1,False,Undergarments and Basics,55000,220000
+7,1,False,Fitness Programs,700000,1000000
+7,1,False,Entertainment,300000,1500000
+7,1,True,Kitchen Tools,50000,200000
+7,1,True,Toys and Games,125000,500000
+8,1,False,Undergarments and Basics,50000,200000
+8,1,False,Fashion Accessories,500000,2000000
+8,1,True,Online Services,90000,900000
+8,1,True,Toys and Games,150000,750000
+9,1,True,Women's Apparel,250000,1250000
+9,1,False,Electronics,1500000,15000000
+9,1,True,Non-Alcoholic Beverages,50000,500000
+9,1,False,Pet Products,300000,2000000
+10,1,False,Toys and Games,75000,416667
+10,1,True,Golf Products,25000,49020
+10,1,True,Online Services,150000,1500000
+10,1,False,Electronics,50000,200000
+11,1,False,Electronics,150000,750000
+11,1,False,Baby and Children's Entertainment,300000,3000000
+11,1,True,Specialty Food,50000,500000
+11,1,False,Golf Products,85000,212500
+11,1,True,Outdoor Recreation,500000,2500000
+12,1,False,Men and Women's Apparel,30000,150000
+12,1,True,Outdoor Recreation,40000,100000
+12,1,False,Novelties,250000,757576
+12,1,False,Baby and Children's Entertainment,200000,666667
+13,1,True,Personal Care and Cosmetics,105000,350000
+13,1,False,Specialty Food,48000,192000
+13,1,False,Professional Services,200000,1333333
+13,1,True,Novelties,200000,800000
+14,1,True,Toys and Games,90000,176471
+14,1,True,Novelties,200000,800000
+14,1,False,Gardening,125000,1250000
+14,1,False,Novelties,86000,430000
+14,1,False,Women's Shoes,150000,1000000
+1,2,True,Men's Accessories,85000,850000
+1,2,True,Baby and Children's Entertainment,30000,600000
+1,2,False,Alcoholic Beverages,300000,6000000
+1,2,False,Specialty Food,200000,800000
+2,2,True,Toys and Games,100000,1000000
+2,2,False,Novelties,40000,200000
+2,2,True,Health and Well-Being,500000,5000000
+2,2,False,Toys and Games,500000,2500000
+3,2,False,Fitness Apparel and Accessories,140000,933333
+3,2,True,Furniture,90000,360000
+3,2,True,Toys and Games,100000,500000
+3,2,False,Storage and Cleaning Products,150000,1500000
+4,2,True,Men and Women's Apparel,50000,200000
+4,2,True,Baby and Child Care,50000,200000
+4,2,False,Specialty Food,25000,125000
+4,2,True,Novelties,50000,250000
+5,2,False,Personal Care and Cosmetics,80000,400000
+5,2,True,Automotive,100000,2000000
+5,2,False,Novelties,500000,1666667
+5,2,True,Home Improvement,100000,333333
+6,2,True,Storage and Cleaning Products,40000,160000
+6,2,False,Golf Products,60000,300000
+6,2,True,Specialty Food,50000,200000
+6,2,False,Maternity,30000,150000
+7,2,True,Fitness Apparel and Accessories,50000,200000
+7,2,False,Entertainment,500000,5000000
+7,2,False,Baby and Child Care,30000,200000
+7,2,False,Gardening,90000,450000
+8,2,False,Home Accessories,50000,200000
+8,2,False,Weddings,250000,1666667
+8,2,True,Electronics,150000,1000000
+8,2,True,Productivity Tools,500000,1250000
+9,2,True,Pet Products,100000,666667
+9,2,False,Women's Apparel,50000,333333
+9,2,True,Women's Shoes,500000,2500000
+9,2,True,Women's Accessories,180000,400000
+1,3,True,Water Bottles,60000,1200000
+1,3,True,Entertainment,150000,1000000
+1,3,False,Professional Services,200000,2000000
+1,3,False,Consumer Services,100000,1000000
+2,3,True,Online Services,10000,40000
+2,3,False,Professional Services,90000,225000
+2,3,False,Automotive,100000,1000000
+2,3,False,Entertainment,1500000,7500000
+3,3,True,Music,125000,1250000
+3,3,False,Novelties,100000,2000000
+3,3,False,Electronics,50000,100000
+3,3,True,Personal Care and Cosmetics,55000,275000
+4,3,False,Pet Products,50000,200000
+4,3,False,Undergarments and Basics,30000,85714
+4,3,True,Wine Accessories,40000,133333
+4,3,True,Baby and Children's Apparel and Accessories,50000,200000
+5,3,True,Storage and Cleaning Products,40000,200000
+5,3,False,Novelties,30000,120000
+5,3,True,Specialty Food,250000,1250000
+5,3,True,Baby and Children's Apparel and Accessories,300000,2000000
+6,3,False,Furniture,250000,1000000
+6,3,True,Specialty Food,100000,400000
+6,3,False,Homeopathic Remedies,35000,175000
+6,3,True,Novelties,150000,1000000
+7,3,False,Home Accessories,100000,200000
+7,3,True,Kitchen Tools,75000,300000
+7,3,False,Men and Women's Apparel,500000,3333333
+7,3,True,Personal Care and Cosmetics,200000,1000000
+8,3,True,Personal Care and Cosmetics,75000,625000
+8,3,True,Women's Accessories,80000,156863
+8,3,False,Fitness Equipment,75000,500000
+8,3,False,Consumer Services,150000,750000
+9,3,False,Personal Care and Cosmetics,100000,400000
+9,3,True,Music,300000,6000000
+9,3,True,Outdoor Recreation,150000,1500000
+9,3,False,Wine Accessories,75000,250000
+10,3,False,Men and Women's Shoes,125000,833333
+10,3,False,Specialty Food,125000,833333
+10,3,True,Men and Women's Apparel,300000,2000000
+10,3,False,Pet Products,100000,196078
+11,3,False,Novelties,1000000,10000000
+11,3,False,Fitness Apparel and Accessories,500000,2500000
+11,3,False,Alcoholic Beverages,300000,6000000
+11,3,False,Specialty Food,200000,6666667
+12,3,False,Women's Accessories,540000,2700000
+12,3,True,Personal Care and Cosmetics,50000,250000
+12,3,True,Baby and Child Care,100000,666667
+12,3,False,Women's Apparel,57000,190000
+13,3,True,Women's Shoes,100000,333333
+13,3,False,Outdoor Recreation,3000000,15000000
+13,3,True,Cycling,500000,1515152
+13,3,False,Furniture,250000,1666667
+14,3,True,Fitness Programs,100000,500000
+14,3,True,Women's Apparel,50000,1000000
+14,3,False,Entertainment,200000,1000000
+14,3,True,Specialty Food,50000,500000
+15,3,False,Non-Alcoholic Beverages,150000,500000
+15,3,True,Men and Women's Shoes,50000,500000
+15,3,False,Fitness Equipment,250000,2500000
+15,3,True,Electronics,500000,1515152
+1,4,False,Fitness Programs,100000,1000000
+1,4,False,Consumer Services,200000,2000000
+1,4,True,Pest Control,125000,1785714
+1,4,True,Novelties,50000,500000
+2,4,False,Specialty Food,250000,757576
+2,4,False,Consumer Services,50000,500000
+2,4,True,Fitness Programs,150000,1500000
+2,4,True,Mobile Apps,50000,1000000
+3,4,True,Health and Well-Being,100000,666667
+3,4,False,Baby and Child Care,500000,3333333
+3,4,True,Men and Women's Accessories,100000,500000
+3,4,False,Specialty Food,200000,2000000
+4,4,False,Productivity Tools,85000,708333
+4,4,True,Specialty Food,150000,1000000
+4,4,True,Kitchen Tools,40000,121212
+4,4,False,Mobile Apps,2000000,20000000
+5,4,True,Baby and Children's Apparel and Accessories,50000,200000
+5,4,False,Personal Care and Cosmetics,50000,125000
+5,4,True,Homeopathic Remedies,200000,2000000
+5,4,False,Specialty Food,75000,300000
+6,4,False,Storage and Cleaning Products,175000,1166667
+6,4,True,Non-Alcoholic Beverages,250000,1666667
+6,4,True,Specialty Food,55000,1100000
+6,4,False,Novelties,200000,2000000
+7,4,False,Undergarments and Basics,60000,300000
+7,4,True,Kitchen Tools,100000,1000000
+7,4,False,Pet Products,125000,625000
+7,4,True,Cycling,300000,3000000
+8,4,True,Kitchen Tools,90000,1800000
+8,4,False,Pest Control,25000,166667
+8,4,True,Baby and Child Care,65000,260000
+9,4,False,Online Services,150000,1000000
+9,4,False,Online Services,250000,2500000
+9,4,True,Specialty Food,250000,1666667
+9,4,True,Costumes,150000,750000
+10,4,False,Men's Accessories,100000,400000
+10,4,True,Specialty Food,75000,750000
+10,4,False,Weddings,35000,350000
+10,4,False,Entertainment,105000,525000
+11,4,False,Women's Accessories,100000,500000
+11,4,True,Holiday Cheer,150000,500000
+11,4,False,Specialty Food,250000,5000000
+11,4,True,Baby and Children's Entertainment,150000,1000000
+12,4,True,Novelties,450000,1800000
+12,4,True,Baby and Child Care,50000,333333
+12,4,False,Party Supplies,100000,303030
+12,4,False,Outdoor Recreation,50000,166667
+13,4,True,Storage and Cleaning Products,50000,500000
+13,4,True,Gardening,300000,2500000
+13,4,False,Specialty Food,300000,2500000
+13,4,True,Novelties,150000,3000000
+14,4,False,Toys and Games,400000,2000000
+14,4,True,Electronics,54000,207692
+14,4,False,Baby and Child Care,40000,285714
+14,4,False,Men and Women's Shoes,400000,5000000
+15,4,False,Novelties,50000,50000
+15,4,True,Specialty Food,75000,750000
+15,4,True,Novelties,90000,600000
+15,4,False,Storage and Cleaning Products,300000,1500000
+16,4,True,Specialty Food,1000000,8333333
+16,4,True,Automotive,100000,666667
+16,4,False,Online Services,100000,333333
+16,4,False,Specialty Food,75000,300000
+17,4,False,Women's Apparel,150000,428571
+17,4,False,Outdoor Recreation,150000,3000000
+17,4,False,Men and Women's Accessories,150000,1500000
+17,4,False,Baby and Children's Bedding,90000,450000
+18,4,False,Homeopathic Remedies,250000,2500000
+18,4,False,Homeopathic Remedies,80000,400000
+18,4,True,Specialty Food,250000,1250000
+18,4,True,Women's Shoes,70000,233333
+19,4,False,Electronics,160000,800000
+19,4,False,Baby and Children's Entertainment,150000,1500000
+19,4,True,Fitness Programs,120000,480000
+19,4,True,Furniture,200000,1000000
+20,4,True,Automotive,300000,2000000
+20,4,True,Holiday Cheer,100000,250000
+20,4,True,Personal Care and Cosmetics,100000,1000000
+20,4,False,Specialty Food,225000,900000
+21,4,True,Novelties,100000,1000000
+21,4,False,Costumes,100000,666667
+21,4,True,Water Bottles,300000,3000000
+21,4,True,Specialty Food,150000,750000
+22,4,True,Men's Accessories,50000,250000
+22,4,False,Outdoor Recreation,2000000,9090909
+22,4,True,Outdoor Recreation,80000,400000
+22,4,True,Specialty Food,75000,375000
+23,4,False,Pest Control,130000,325000
+23,4,True,Specialty Food,75000,500000
+23,4,True,Specialty Food,200000,1000000
+23,4,False,Kitchen Tools,400000,1600000
+24,4,True,Entertainment,300000,3000000
+24,4,False,Specialty Food,250000,833333
+24,4,True,Toys and Games,300000,1500000
+24,4,False,Entertainment,5000000,14705882
+25,4,False,Consumer Services,100000,1000000
+25,4,True,Furniture,100000,2000000
+25,4,True,Women's Accessories,150000,600000
+25,4,False,Specialty Food,100000,400000
+26,4,False,Online Services,200000,2000000
+26,4,True,Online Services,250000,1666667
+26,4,True,Specialty Food,600000,6000000
+26,4,True,Pet Products,25000,100000
+1,5,False,Specialty Food,125000,625000
+1,5,False,Online Services,50000,250000
+1,5,True,Specialty Food,250000,2500000
+1,5,True,Online Services,300000,6000000
+2,5,True,Automotive,250000,2500000
+2,5,True,Pet Products,150000,454545
+2,5,False,Specialty Food,75000,375000
+2,5,False,Novelties,10000,100000
+3,5,False,Baby and Child Care,35000,106061
+3,5,False,Kitchen Tools,50000,250000
+3,5,True,Kitchen Tools,300000,3000000
+3,5,True,Baby and Child Care,200000,1333333
+4,5,True,Outdoor Recreation,100000,666667
+4,5,False,Mobile Apps,1000000,20000000
+4,5,True,Home Improvement,30000,120000
+4,5,False,Entertainment,75000,750000
+5,5,True,Baby and Children's Apparel and Accessories,600000,8571429
+5,5,True,Baby and Children's Food,75000,500000
+5,5,False,Professional Services,150000,600000
+5,5,False,Personal Care and Cosmetics,50000,250000
+6,5,True,Home Improvement,90000,900000
+6,5,True,Entertainment,2000000,20000000
+6,5,True,Professional Services,200000,1000000
+6,5,False,Novelties,50000,250000
+7,5,False,Outdoor Recreation,250000,1250000
+7,5,True,Gardening,150000,750000
+7,5,True,Party Supplies,300000,2000000
+7,5,True,Storage and Cleaning Products,400000,5714286
+8,5,False,Specialty Food,160000,800000
+8,5,False,Pet Products,200000,1000000
+8,5,False,Maternity,500000,4000000
+8,5,True,Weddings,250000,1250000
+9,5,False,Home Security Solutions,700000,7000000
+9,5,False,Specialty Food,150000,1000000
+9,5,False,Online Services,500000,3333333
+9,5,False,Toys and Games,110000,1100000
+10,5,False,Specialty Food,500000,2500000
+10,5,True,Toys and Games,150000,1000000
+10,5,True,Women's Accessories,55000,458333
+10,5,True,Women's Accessories,175000,1750000
+11,5,False,Electronics,2000000,20000000
+11,5,False,Baby and Child Care,150000,500000
+11,5,False,Fashion Accessories,450000,3000000
+11,5,True,Specialty Food,300000,2000000
+12,5,False,Personal Care and Cosmetics,45000,300000
+12,5,False,Holiday Cheer,125000,625000
+12,5,True,Holiday Cheer,100000,2000000
+12,5,True,Holiday Cheer,50000,333333
+13,5,False,Novelties,50000,500000
+13,5,False,Baby and Children's Entertainment,30000,150000
+13,5,True,Consumer Services,150000,750000
+13,5,True,Home Improvement,150000,1500000
+14,5,False,Personal Care and Cosmetics,100000,500000
+14,5,True,Home Accessories,125000,1250000
+14,5,False,Baby and Children's Entertainment,250000,833333
+14,5,True,Storage and Cleaning Products,175000,1750000
+15,5,True,Baby and Children's Apparel and Accessories,150000,1500000
+15,5,False,Fitness Programs,300000,1500000
+15,5,True,Baby and Child Care,60000,1200000
+15,5,False,Homeopathic Remedies,200000,666667
+16,5,True,Mobile Apps,90000,1800000
+16,5,False,Baby and Children's Food,250000,2500000
+16,5,True,Specialty Food,50000,250000
+16,5,False,Fitness Equipment,2000000,20000000
+17,5,False,Fitness Programs,200000,4000000
+17,5,True,Specialty Food,100000,400000
+17,5,True,Professional Services,100000,666667
+17,5,False,Specialty Food,50000,333333
+18,5,False,Consumer Services,100000,1000000
+18,5,False,Baby and Child Care,500000,10000000
+18,5,False,Baby and Children's Bedding,75000,375000
+18,5,True,Storage and Cleaning Products,200000,2000000
+19,5,False,Baby and Children's Apparel and Accessories,80000,400000
+19,5,False,Automotive,75000,300000
+19,5,True,Cycling,150000,1500000
+19,5,True,Baby and Children's Apparel and Accessories,200000,800000
+20,5,True,Specialty Food,150000,600000
+20,5,False,Water Bottles,100000,500000
+20,5,True,Consumer Services,100000,500000
+20,5,True,Baby and Child Care,100000,571429
+21,5,True,Home Security Solutions,275000,916667
+21,5,True,Education,200000,2000000
+21,5,False,Personal Care and Cosmetics,25000,125000
+21,5,True,Specialty Food,50000,1000000
+22,5,True,Baby and Child Care,100000,333333
+22,5,True,Home Improvement,50000,500000
+22,5,True,Specialty Food,500000,12500000
+22,5,False,Specialty Food,500000,5000000
+23,5,False,Specialty Food,500000,1666667
+23,5,True,Novelties,375000,2500000
+23,5,True,Novelties,225000,1500000
+23,5,True,Undergarments and Basics,75000,375000
+24,5,True,Outdoor Recreation,250000,2500000
+24,5,True,Baby and Children's Entertainment,125000,625000
+24,5,False,Online Services,100000,1000000
+24,5,False,Productivity Tools,150000,1500000
+25,5,False,Wine Accessories,250000,2500000
+25,5,True,Electronics,350000,2333333
+25,5,True,Baby and Children's Entertainment,250000,1666667
+25,5,False,Toys and Games,75000,500000
+26,5,False,Specialty Food,1000000,10000000
+26,5,False,Men's Accessories,50000,250000
+26,5,True,Homeopathic Remedies,75000,375000
+26,5,True,Entertainment,1000000,10000000
+27,5,True,Personal Care and Cosmetics,500000,5000000
+27,5,False,Party Supplies,250000,2500000
+27,5,False,Consumer Services,258000,8600000
+27,5,True,Storage and Cleaning Products,80000,266667
+28,5,False,Professional Services,250000,1000000
+28,5,True,Outdoor Recreation,500000,4166667
+28,5,True,Specialty Food,200000,1000000
+28,5,True,Alcoholic Beverages,150000,428571
+29,5,True,Productivity Tools,50000,250000
+29,5,False,Toys and Games,125000,1250000
+29,5,True,Online Services,75000,500000
+29,5,False,Kitchen Tools,400000,2000000
+1,6,False,Electronics,200000,1000000
+1,6,True,Baby and Child Care,200000,2000000
+1,6,False,Personal Care and Cosmetics,200000,1000000
+1,6,True,Undergarments and Basics,200000,4000000
+2,6,True,Toys and Games,500000,10000000
+2,6,False,Weddings,125000,625000
+2,6,True,Golf Products,150000,1000000
+2,6,False,Novelties,75000,500000
+3,6,False,Baby and Child Care,260000,2600000
+3,6,False,Music,150000,3000000
+3,6,True,Pet Products,25000,250000
+3,6,False,Toys and Games,60000,200000
+4,6,True,Toys and Games,35000,140000
+4,6,True,Personal Care and Cosmetics,150000,3000000
+4,6,False,Novelties,100000,400000
+4,6,False,Weddings,285000,1140000
+5,6,True,Novelties,300000,6000000
+5,6,True,Women's Apparel,600000,12000000
+5,6,False,Toys and Games,100000,500000
+5,6,False,Entertainment,100000,500000
+6,6,True,Weddings,400000,4000000
+6,6,False,Specialty Food,500000,1428571
+6,6,True,Alcoholic Beverages,200000,2000000
+6,6,False,Home Security Solutions,250000,2500000
+7,6,False,Electronics,1500000,30000000
+7,6,False,Personal Care and Cosmetics,400000,2666667
+7,6,True,Fitness Apparel and Accessories,500000,10000000
+7,6,True,Baby and Children's Apparel and Accessories,60000,600000
+8,6,False,Men's Accessories,200000,689655
+8,6,False,Professional Services,75000,500000
+8,6,True,Novelties,150000,1500000
+8,6,True,Fitness Apparel and Accessories,100000,500000
+9,6,True,Specialty Food,125000,625000
+9,6,True,Specialty Food,200000,2000000
+9,6,True,Health and Well-Being,350000,7000000
+9,6,False,Novelties,100000,1000000
+10,6,True,Home Accessories,160000,800000
+10,6,True,Outdoor Recreation,100000,303030
+10,6,True,Storage and Cleaning Products,100000,2000000
+10,6,False,Specialty Food,100000,666667
+11,6,True,Alcoholic Beverages,2500000,25000000
+11,6,False,Personal Care and Cosmetics,125000,625000
+11,6,True,Storage and Cleaning Products,500000,1666667
+11,6,True,Men and Women's Apparel,500000,2500000
+12,6,True,Holiday Cheer,50000,500000
+12,6,True,Holiday Cheer,150000,1500000
+12,6,False,Holiday Cheer,75000,375000
+12,6,True,Health and Well-Being,20000,100000
+13,6,False,Women's Apparel,100000,500000
+13,6,True,Specialty Food,275000,2500000
+13,6,True,Consumer Services,25000,250000
+13,6,False,Online Services,500000,10000000
+14,6,False,Baby and Child Care,50000,500000
+14,6,True,Specialty Food,150000,750000
+14,6,False,Storage and Cleaning Products,75000,500000
+14,6,True,Party Supplies,100000,333333
+15,6,True,Pet Products,100000,500000
+15,6,True,Home Accessories,250000,3125000
+15,6,False,Men and Women's Apparel,360000,6000000
+15,6,False,Health and Well-Being,100000,1000000
+16,6,False,Specialty Food,200000,1000000
+16,6,False,Online Services,50000,1000000
+16,6,True,Storage and Cleaning Products,300000,3000000
+16,6,True,Storage and Cleaning Products,300000,4000000
+17,6,True,Storage and Cleaning Products,110000,733333
+17,6,False,Home Accessories,250000,2500000
+17,6,False,Personal Care and Cosmetics,75000,375000
+17,6,True,Pet Products,150000,1500000
+18,6,True,Baby and Child Care,75000,375000
+18,6,True,Novelties,50000,333333
+18,6,False,Personal Care and Cosmetics,125000,625000
+18,6,False,Pet Products,750000,15000000
+19,6,False,Men and Women's Shoes,300000,3000000
+19,6,True,Novelties,60000,400000
+19,6,True,Women's Apparel,80000,400000
+19,6,False,Novelties,250000,5000000
+20,6,True,Online Services,40000,266667
+20,6,False,Home Accessories,750000,7500000
+20,6,True,Electronics,200000,2000000
+20,6,False,Men and Women's Accessories,110000,733333
+21,6,False,Baby and Child Care,75000,750000
+21,6,True,Women's Apparel,100000,500000
+21,6,True,Kitchen Tools,125000,1250000
+21,6,False,Automotive,200000,1333333
+22,6,True,Party Supplies,650000,13000000
+22,6,False,Women's Apparel,500000,10000000
+22,6,True,Storage and Cleaning Products,75000,625000
+22,6,True,Specialty Food,150000,750000
+23,6,False,Pet Products,150000,750000
+23,6,False,Online Services,2000000,14814815
+23,6,False,Men and Women's Apparel,250000,5000000
+23,6,True,Non-Alcoholic Beverages,60000,600000
+24,6,True,Baby and Child Care,100000,500000
+24,6,False,Toys and Games,100000,2000000
+24,6,False,Professional Services,400000,4000000
+24,6,False,Men and Women's Shoes,200000,1333333
+25,6,False,Online Services,350000,3500000
+25,6,True,Baby and Child Care,150000,750000
+25,6,True,Electronics,500000,10000000
+25,6,True,Gardening,600000,2400000
+26,6,True,Music,725000,7250000
+26,6,False,Online Services,120000,666667
+26,6,True,Fitness Apparel and Accessories,100000,1000000
+26,6,False,Men and Women's Apparel,200000,2500000
+27,6,True,Outdoor Recreation,75000,375000
+27,6,False,Men and Women's Accessories,150000,4285714
+27,6,False,Specialty Food,150000,750000
+27,6,True,Automotive,5000000,10000000
+28,6,True,Novelties,100000,1000000
+28,6,False,Outdoor Recreation,400000,2666667
+28,6,True,Education,3000000,30000000
+28,6,True,Online Services,100000,500000
+29,6,True,Toys and Games,500000,5000000
+29,6,True,Outdoor Recreation,100000,2000000
+29,6,False,Entertainment,100000,500000
+29,6,True,Automotive,300000,3000000
