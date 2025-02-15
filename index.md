@@ -28,11 +28,11 @@ This site is **under construction**. Anything you read here is not finalized. Th
 >
 >Earn 1 participation point by filling out both [SETs](https://academicaffairs.ucsd.edu/Modules/Evals/) and the internal [End-of-Quarter Survey](https://forms.gle/NQ76jTvq9799VvWq8) before Saturday, December 7th at 8AM.-->
 
-{: .success }
+<!--{: .success }
 >The Midterm Exam is **this Monday, February 10th**. [See announcements here.](https://edstem.org/us/courses/70673/discussion/6127710)
 >
 >The deadline of the Midterm Project has been extended to **Thursday, February 13th**!
-
+-->
 
 <!--{: .success }
 >**Tip**: When working on assignments, use Ctrl+F on this page to search for a keyword and quickly find the relevant lecture. Click the "✏️ write" button to open a static version of the lecture for reference, which is much faster than loading it on DataHub. 
@@ -42,7 +42,7 @@ This site is **under construction**. Anything you read here is not finalized. Th
 
 
 
-[Jump to the current week](/#week-6-confidence-intervals-and-the-normal-distribution){: .btn }
+[Jump to the current week](/#week-7-central-limit-theorem){: .btn }
 
 
 {% for module in site.modules %}
