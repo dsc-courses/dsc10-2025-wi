@@ -19,8 +19,8 @@ days:
           keywords: distribution of the sample mean, square root law, CLT-based CIs
         - name: DISC 8
           type: disc
-          title: Practice Problems
-          url:
+          title: Standardization and The Normal Distribution
+          url: https://practice.dsc10.com/disc08/index.html
     - date: 2025-2-20
       events:
         - name: HW 4
