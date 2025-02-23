@@ -16,8 +16,8 @@ days:
           keywords: null and alternative hypotheses, test statistic, fair or unfair coin
         - name: DISC 9
           type: disc
-          title: Practice Problems
-          url:
+          title: The Central Limit Theorem
+          url: https://practice.dsc10.com/disc09/index.html
     - date: 2025-2-25
       events:
         - name: HW 5
