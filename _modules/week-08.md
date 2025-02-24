@@ -7,8 +7,8 @@ days:
         - name: LEC 19
           type: lecture
           title: Hypothesis Testing
-          url:
-          html:
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-wi&subPath=lectures/lec19/lec19.ipynb
+          html: resources/lectures/lec19/lec19.html
           podcast:
           readings:
             - name: CIT 11.3
@@ -29,8 +29,8 @@ days:
         - name: LEC 20
           type: lecture
           title: Hypothesis Testing and Total Variation Distance
-          url:
-          html:
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-wi&subPath=lectures/lec20/lec20.ipynb
+          html: resources/lectures/lec20/lec20.html
           podcast:
           readings:
             - name: CIT 11.2
@@ -46,8 +46,8 @@ days:
         - name: LEC 21
           type: lecture
           title: TVD, Hypothesis Testing, and Permutation Testing
-          url:
-          html:
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-wi&subPath=lectures/lec21/lec21.ipynb
+          html: resources/lectures/lec21/lec21.html
           podcast:
           readings:
             - name: CIT 12.0-12.1
