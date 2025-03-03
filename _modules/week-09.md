@@ -7,8 +7,8 @@ days:
         - name: LEC 22
           type: lecture
           title: Permutation Testing
-          url:
-          html:
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-wi&subPath=lectures/lec22/lec22.ipynb
+          html: resources/lectures/lec22/lec22.html
           podcast:
           readings:
             - name: CIT 12.3
@@ -23,8 +23,8 @@ days:
         - name: LEC 23
           type: lecture
           title: Correlation
-          url:
-          html:
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-wi&subPath=lectures/lec23/lec23.ipynb
+          html: resources/lectures/lec23/lec23.html
           podcast:
           readings:
             - name: CIT 15.0-15.2
@@ -38,8 +38,8 @@ days:
         - name: LEC 24
           type: lecture
           title: Regression and Least Squares
-          url:
-          html:
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-wi&subPath=lectures/lec24/lec24.ipynb
+          html: resources/lectures/lec24/lec24.html
           podcast:
           readings:
             - name: CIT 15.2-15.4
