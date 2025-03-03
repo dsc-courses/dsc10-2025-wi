@@ -16,8 +16,8 @@ days:
           keywords: smoking/babies, np.random.permutation, shuffling, Deflategate
         - name: DISC 10
           type: disc
-          title: Practice Problems
-          url:
+          title: Hypothesis Testing and Permutation Testing
+          url: https://practice.dsc10.com/disc10/index.html
     - date: 2025-3-5
       events: 
         - name: LEC 23
