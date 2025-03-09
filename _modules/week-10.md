@@ -16,8 +16,8 @@ days:
           keywords: residuals, residual plots, patterns, datasaurus dozen, prediction intervals
         - name: DISC 11
           type: disc
-          title: Practice Problems
-          url:
+          title: Regression
+          url: https://practice.dsc10.com/disc11/index.html
     - date: 2025-3-11
       events:
         - name: LAB 7
