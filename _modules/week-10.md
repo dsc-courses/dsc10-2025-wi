@@ -7,8 +7,8 @@ days:
         - name: LEC 25
           type: lecture
           title: Residuals and Inference
-          url:
-          html:
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-wi&subPath=lectures/lec25/lec25.ipynb
+          html: resources/lectures/lec25/lec25.html
           podcast:
           readings:
             - name: CIT 15.5-16.3
@@ -29,8 +29,10 @@ days:
         - name: LEC 26
           type: lecture
           title: Review
-          url:
-          html:
+          url: 
+          html: resources/lectures/lec26/lec26.pdf
+          10am: 
+          11am: 
           podcast:
           readings:
         - name: QUIZ 5
@@ -59,5 +61,5 @@ days:
         - name: SUR
           type: survey
           title: SETs and End-of-Quarter Survey (due 8AM)
-          url:
+          url: https://forms.gle/Qaj44fCMRong6Wu29
 ---
