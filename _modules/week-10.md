@@ -31,8 +31,8 @@ days:
           title: Review
           url: 
           html: resources/lectures/lec26/lec26.pdf
-          10am: 
-          11am: 
+          10am: resources/lectures/lec26/lec26_10am.pdf
+          11am: resources/lectures/lec26/lec26_11am.pdf
           podcast:
           readings:
         - name: QUIZ 5
