@@ -49,8 +49,8 @@ days:
         - name: LEC 27
           type: lecture
           title: Review, Conclusion
-          url:
-          html:
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-wi&subPath=lectures/lec27/lec27.ipynb
+          html: resources/lectures/lec27/lec27.html
           podcast:
           readings:
     - date: 2025-3-15
